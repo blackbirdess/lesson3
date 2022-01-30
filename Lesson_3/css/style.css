@@ -1,0 +1,56 @@
+@import "null.css";
+
+body{
+	margin-left: 50px;
+	
+}
+.top__title{
+	margin-top: 30px;
+}
+
+.text__title {
+	text-indent: 40px;
+	font-size: 44px;
+	font-weight: 600;
+	color: #464c5c;
+	margin: 0;
+}
+span{
+	color: red;
+	font-weight: 700;
+}
+.text__subtitle{
+	text-indent: 40px;
+	font-size: 24px;
+	font-weight: 700;
+	color: #464c5c;
+	margin-top: 36px;
+	margin-bottom: 16px;
+}
+
+p{
+	text-indent: 30px;
+	width: 80%;
+	margin: 20px 0 25px;
+	color: #646e82;
+	font-size: 16px;
+}
+.list{
+	margin-bottom: 20px;
+	color: #646e82;
+	font-size: 16px;
+}
+.list li{
+	list-style: decimal;
+	margin-left: 40px;
+}
+
+.web__img{
+	box-shadow: 1px 1px 10px #646e82;;
+}
+
+.examples > p{
+	color: green;
+}
+
+
